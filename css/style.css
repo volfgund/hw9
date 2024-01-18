@@ -1,0 +1,36 @@
+/* comon */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* header */
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #4CAF50;
+    color: white;
+}
+
+/* main */
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #27c0ac;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+/* footer */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+}
